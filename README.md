@@ -20,17 +20,6 @@ A responsive Microsoft landing page clone built using **HTML** and **Tailwind CS
 - Tailwind CSS
 - Vercel (for deployment)
 
-## Project Structure
-
-\`\`\`
-├── index.html
-├── assets/
-│   └── images/
-├── styles/
-│   └── tailwind.css
-└── README.md
-\`\`\`
-
 ## How to Use
 
 1. Clone the repository:  
